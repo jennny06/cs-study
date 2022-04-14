@@ -1,0 +1,15 @@
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.csproj.AssemblyReference.cache
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.AssemblyInfoInputs.cache
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.AssemblyInfo.cs
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.csproj.CoreCompileInputs.cache
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/bin/Debug/net6.0/飞行棋
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/bin/Debug/net6.0/飞行棋.deps.json
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/bin/Debug/net6.0/飞行棋.runtimeconfig.json
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/bin/Debug/net6.0/飞行棋.dll
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/bin/Debug/net6.0/飞行棋.pdb
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.dll
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/refint/飞行棋.dll
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.pdb
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/飞行棋.genruntimeconfig.cache
+/Users/chang/git/cs-study/c#/飞行棋/飞行棋/obj/Debug/net6.0/ref/飞行棋.dll

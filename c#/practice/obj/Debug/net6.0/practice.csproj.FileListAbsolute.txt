@@ -1,0 +1,15 @@
+/Users/chang/git/cs-study/c#/practice/bin/Debug/net6.0/practice
+/Users/chang/git/cs-study/c#/practice/bin/Debug/net6.0/practice.deps.json
+/Users/chang/git/cs-study/c#/practice/bin/Debug/net6.0/practice.runtimeconfig.json
+/Users/chang/git/cs-study/c#/practice/bin/Debug/net6.0/practice.dll
+/Users/chang/git/cs-study/c#/practice/bin/Debug/net6.0/practice.pdb
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.csproj.AssemblyReference.cache
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.AssemblyInfoInputs.cache
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.AssemblyInfo.cs
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.csproj.CoreCompileInputs.cache
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.dll
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/refint/practice.dll
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.pdb
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/practice.genruntimeconfig.cache
+/Users/chang/git/cs-study/c#/practice/obj/Debug/net6.0/ref/practice.dll
